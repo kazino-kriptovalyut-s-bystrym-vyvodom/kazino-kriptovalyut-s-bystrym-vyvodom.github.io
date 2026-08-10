@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-kriptovalyut-s-bystrym-vyvodom.github.io
+Sitemap: https://kazino-kriptovalyut-s-bystrym-vyvodom.github.io/sitemap.xml
